@@ -1,6 +1,6 @@
 {
     "name": "kodekeep/nova-eloquent-sortable",
-    "description": ":package_description",
+    "description": "A Laravel Nova field for spatie/eloquent-sortable.",
     "keywords": [
         "kodekeep",
         "nova-eloquent-sortable"

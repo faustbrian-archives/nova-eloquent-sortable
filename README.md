@@ -7,7 +7,7 @@
 [![Total Downloads](https://badgen.net/packagist/dt/kodekeep/nova-eloquent-sortable)](https://packagist.org/packages/kodekeep/nova-eloquent-sortable)
 [![License](https://badgen.net/packagist/license/kodekeep/nova-eloquent-sortable)](https://packagist.org/packages/kodekeep/nova-eloquent-sortable)
 
-This is where your description should go. Try and limit it to a paragraph or two. Consider adding a small example.
+> A Laravel Nova field for spatie/eloquent-sortable.
 
 ## Installation
 
