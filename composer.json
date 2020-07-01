@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "KodeKeep\\Skeleton\\": "src"
+            "KodeKeep\\NovaEloquentSortable\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "KodeKeep\\Skeleton\\Tests\\": "tests"
+            "KodeKeep\\NovaEloquentSortable\\Tests\\": "tests"
         }
     },
     "scripts": {
