@@ -18,5 +18,5 @@ library.add(faChevronDown);
 
 Nova.booting((Vue) => {
     Vue.component('font-awesome-icon', FontAwesomeIcon);
-    Vue.component('index-nova-eloquent-sortable', require('./components/IndexField'))
+    Vue.component('index-nova-eloquent-sortable', require('./components/IndexField').default)
 })
